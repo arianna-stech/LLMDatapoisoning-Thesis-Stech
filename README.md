@@ -46,7 +46,9 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 5. **NewsGuard comparison** situates the audit against the external benchmark and demonstrates the persona-sensitivity contribution.
 6. **Naming the game** closes the chapter's diagnostic argument: all three false claims belong to Storm-1516, so models that name *Russian disinformation* explicitly are the ones that correctly identify the operation. Grok, Mistral and Copilot name Russia most; Meta never does, mirroring its performance ranking.
 
-## Files relating to the Methodology of the Audit (in view of the Empirical Analysis)
+# Methodology of the Audit (in view of the Empirical Analysis)
+
+## Respective Files
 
 1. Audit Toolkit (explains the methodology used in detail)
 2. AI Audit Coded Results (Excel spreadheet containing all the data and language analysis)
