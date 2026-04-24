@@ -1,7 +1,7 @@
 # LLMDatapoisoning-Thesis-Stech
 Public repository containing all materials, data, visualisations and general digital add-ons to the thesis' main body. Materials related to the audit are uploaded for replicability purposes of the experiment.
 
-# Empirical Analysis (Audit Results) — Chart Set
+# Empirical Analysis (Audit Results)
 
 Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six static charts plus one interactive dashboard, all drawn from the 132-response audit dataset.
 
