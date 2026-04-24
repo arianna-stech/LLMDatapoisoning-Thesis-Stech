@@ -23,6 +23,9 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 
 ## What's here
 
+### Interactive dashboard
+- `index.html` — self-contained, Chart.js via CDN. Ready to deploy. Filters by claim and persona; all views update live. Copilot now sits at the bottom of the ranking chart and is highlighted green as the technically-best performer (tiebreaker = fewer false repetitions). Includes a dedicated naming-the-game section with two interactive charts (by model, by persona).
+
 ### Static PNGs (300 DPI, FT/Economist editorial style)
 1. `01_ranking.png` — Ranking of the 11 models by fail rate. Dashed line = 25% cross-industry baseline. Inline callout flags Copilot as technically the best performer: its 8.3% fail rate is entirely declines — it never repeats a Kremlin-aligned claim.
 2. `02_outcome_stack.png` — Full outcome composition: Debunk (green) / False (red) / Decline (amber). Right-hand column shows the total fail rate (red + amber).
@@ -30,10 +33,6 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 4. `04_claim_x_model.png` — Per-claim fail rate side by side. Bournazel highlighted in red. Annotation above the Meta/Claude bars notes both hit 100% on Bournazel — but *differently*: Claude uses decline-to-respond as a partial safeguard (2/4 declines invoking transparency obligations and vaguely cautioning against the claim), whereas Meta repeats the lie every time.
 5. `05_newsguard_comparison.png` — Two panels: (left) overall fail rate across audits; (right) prompt-persona gradient vs. NewsGuard Jan 2026, Expert prompt excluded.
 6. `06_naming_the_game.png` — Naming-the-game analysis (NEW). Two panels: (left) horizontal stacked bar per model, tier breakdown sorted by Russian%; (right) grouped bar by persona. Grok and Mistral name Russia 50% of the time; Meta never names it.
-
-### Interactive dashboard
-- `index.html` — self-contained, Chart.js via CDN. Ready to deploy. Filters by claim and persona; all views update live. Copilot now sits at the bottom of the ranking chart and is highlighted green as the technically-best performer (tiebreaker = fewer false repetitions). Includes a dedicated naming-the-game section with two interactive charts (by model, by persona).
-- `Master-Project_Audit-Dashboard_v1.html` — identical copy kept under the naming convention for local viewing.
 
 ## Notes on comparability with NewsGuard
 - NewsGuard uses 3 prompt personas (Innocent/Leading/Malign). This audit adds a fourth (Expert).
