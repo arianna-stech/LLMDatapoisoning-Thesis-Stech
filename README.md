@@ -8,7 +8,7 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 ## What's here
 
 ### Interactive dashboard (main link of the repository)
-- `index.html` — self-contained, Chart.js via CDN. Ready to deploy. Filters by claim and persona; all views update live.
+- `index.html` — self-contained, Chart.js via CDN. Presents an interactive and comprehensive overview of the audit's findings and all the data visualizations which have been additionally rendered in .png to add to the textual thesis' body. Filters by claim and persona; all views update live.
 
 ### Static PNGs (300 DPI, FT/Economist editorial style)
 1. `01_ranking.png` — Ranking of the 11 models by fail rate. Dashed line = 25% cross-industry baseline. Inline callout flags Copilot as technically the best performer: its 8.3% fail rate is entirely declines — it never repeats a Kremlin-aligned claim.
