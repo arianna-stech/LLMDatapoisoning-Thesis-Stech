@@ -54,5 +54,5 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 2. AI Audit Coded Results (Excel spreadheet containing all the data and language analysis)
 3. Audit Observations and Results (Discursive preliminary notes on common themes, behaviours and notable insights from the findings)
 4. Audit 1.a to 4.c 2.0 .md files record the answers by prompt/persona (1 = Innocent; 2 = Leading; 3 = Malicious; 4 = Expert) and respective false claim (a = Zelensky/Epstein casting; b = Zelensky/Astrazeneca; c = Bournazel) of the 8 remaining models run through an API centralizer (OpenRouter) 
-5. 2 files recording the Maunal Run Results of Copilot and You.com (and 3 .txt files Apertus 1.a to c)
-6. Several screenshots to document various moments, settings and relvant details of the audit taken while runnning it
+5. 2 files recording the Maunal Run Results of Copilot and You.com (and 3 .txt files recording the partial manual run of Apertus 1.a to c)
+6. Several screenshots to document various moments, chosen settings and relevant details of the audit taken while runnning it
