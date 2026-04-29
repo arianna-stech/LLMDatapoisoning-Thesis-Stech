@@ -1,5 +1,5 @@
 # LLMDatapoisoning-Thesis-Stech
-Public repository containing all materials, data, visualisations and general digital add-ons to the thesis' main body. Materials related to the audit are uploaded for replicability purposes of the experiment.
+Public repository containing all materials, data, visualisations and general digital add-ons to the thesis' main body. Materials related to the audit are uploaded for replicability purposes of the experiment. Research Proposal available in the files for general context.
 
 # Empirical Analysis (Audit Results)
 
