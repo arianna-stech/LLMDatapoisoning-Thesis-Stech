@@ -7,7 +7,7 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 
 ## What's here
 
-### Interactive dashboard file:///Users/arian/Desktop/CLAUDE%20COWORK/Claude%20Outputs/Master%20Project/Master-Project_Chart-Set_v1/Master-Project_Audit-Dashboard_v1.html
+### Interactive dashboard
 
 - `index.html` — self-contained, Chart.js via CDN. Presents an interactive and comprehensive overview of the audit's findings and all the data visualizations which have been additionally rendered in .png to add to the textual thesis' body. Filters by claim and persona; all views update live.
 
