@@ -9,6 +9,8 @@ Visual deliverables for the empirical chapter (Chapter 5) of the thesis. Six sta
 
 ### Interactive dashboard
 
+Live at: https://arianna-stech.github.io/LLMDatapoisoning-Thesis-Stech/
+
 - `index.html` — self-contained, Chart.js via CDN. Presents an interactive and comprehensive overview of the audit's findings and all the data visualizations which have been additionally rendered in .png to add to the textual thesis' body. Filters by claim and persona; all views update live.
 
 ### Static PNGs (300 DPI, FT/Economist editorial style)
